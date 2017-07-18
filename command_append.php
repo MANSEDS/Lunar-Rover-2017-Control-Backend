@@ -1,6 +1,6 @@
 <?php
     /**
-     * action_handler.php
+     * command_append.php
      * Created by Matthew Marshall, 2017
      * Contributors:
      *   Matthew Marshall
